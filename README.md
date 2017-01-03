@@ -1,5 +1,7 @@
 # 2017DayDayUp
 > My 2017 Diary
+> 
+> 对应简书地址：http://www.jianshu.com/p/4f7fd99ff95c
 
 
 ## Day1. 自定义UIView
