@@ -11,3 +11,10 @@
 ## Day2. 使用响应链来处理多层视图的事件传递
 * 场景：tableview的cell中嵌有button，需要在controller中处理button的点击事件
 
+## Day3. 不保留其目标对象的Timer
+* p1.添加一个自定义Timer初始化类方法
+* p2.添加Timer的启动函数
+* p3.添加每隔特定时间调用一次Timer
+* p4.添加延迟特定时间调用Timer
+* p5.直观的时间展示（日/时/分/秒/毫秒）
+
