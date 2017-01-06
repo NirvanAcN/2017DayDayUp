@@ -18,3 +18,7 @@
 * p4.添加延迟特定时间调用Timer
 * p5.直观的时间展示（日/时/分/秒/毫秒）
 
+## Day4. 使用enum来管理项目中的storyboard
+* 使storyboard的name可以有自动补全提示，避免多处使用storyboard时name拼写错误而引起的异常
+
+

@@ -62,12 +62,12 @@ extension Timer {
     /// - Parameters:
     ///   - runloop: runloop
     ///   - forMode: forMode
-    func start(_ runloop: RunLoop = .current, _ forMode:RunLoopMode = .defaultRunLoopMode) {
+    func start(_ runloop: RunLoop = .current, _ forMode: RunLoopMode = .defaultRunLoopMode) {
         runloop.add(self, forMode: forMode)
     }
 }
 
-// MARK: - 直观的时间展示（日/时/分/秒/毫秒）
+// MARK: - p5.直观的时间展示（日/时/分/秒/毫秒）
 extension Double {
     var milliseconds:   TimeInterval    { return self / 1000 }
     var seconds:        TimeInterval    { return self }
